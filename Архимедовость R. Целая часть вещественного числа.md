@@ -4,4 +4,4 @@
 
 ### Архимедовость
 
-$$\forall a,b \in \mathbb R:\ a<b \  \exists n \in N \  an>b$$
+$$\forall a,b \in \mathbb R:\ a<b \  \exists n \in N: \  an>b$$
