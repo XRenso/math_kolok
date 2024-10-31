@@ -2,6 +2,9 @@
 * ==Целая часть вещественного числа== - целой частью \[x\] называется наибольшее целое число, не превосходящее x.
 
 
-### Архимедовость
+### Архимедовость.
 
-$$\forall a,b \in \mathbb R:\ a<b \  \exists n \in N: \  an>b$$
+$$\forall x,y > 0 \ \exists n \in \mathbb N: nx>y$$
+##### Доказательство
+$A = \{ nx:n \in \mathbb N \}$, пусть $\forall n \in \mathbb N \ \ nx\leq y$ => A ограничена сверху => $\alpha = \sup A \ \ x<2x \leq \alpha$ 
+$$
